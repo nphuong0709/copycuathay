@@ -1,8 +1,7 @@
 package imic.daily_practice;
 
+import imic.buoi10.Fibonacci;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class FibonacciTest {
 

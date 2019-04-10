@@ -1,4 +1,4 @@
-package imic.daily_practice;
+package imic.buoi10;
 
 public class Fibonacci {
     public static int tinhFibonacci(int n) {

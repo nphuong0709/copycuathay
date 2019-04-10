@@ -1,4 +1,4 @@
-package imic.daily_practice;
+package imic.buoi10;
 
 public class UocBoi {
     public static int tinhUocn(int n) {

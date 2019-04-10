@@ -1,8 +1,7 @@
 package imic.daily_practice;
 
+import imic.buoi10.UocBoi;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class UocBoiTest {
 
